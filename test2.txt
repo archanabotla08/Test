@@ -1,6 +1,6 @@
 World
-<<<<<<< HEAD
+
 Hello World
-=======
+
 Hi updated 
->>>>>>> 6129e59b730ccb1e247e7eb9d011b43abda474c7
+
