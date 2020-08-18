@@ -2,10 +2,5 @@ World
 
 Hello World
 
-<<<<<<< HEAD
 HI GOOD EVENING NANDED!!!!!!!!!!!!!!!!!!!!
-=======
-HI GOOD EVENING MUMBAI !!!!!!!!!!!!!!!!!!!
->>>>>>> 8ddd843edeb36773aea52bc6c70b96e1c28dc1df
-
 Hi Good Evening
