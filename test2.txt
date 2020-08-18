@@ -3,10 +3,5 @@ Hello World
 HI GOOD EVENING NANDED!!!!!!!!!!!!!!!!!!!!
 Hi GOOD EVENING MUMBAI !!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 Hi Good Evening
-<<<<<<< HEAD
-
-
-Hi
-=======
 Hi I Am Woking on Git Merge
->>>>>>> 65526102581379775a94257f140095929ec013db
+
